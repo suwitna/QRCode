@@ -71,7 +71,7 @@ QRCoder ใช้ **MIT License**
 - C:\Program Files\Microsoft SQL Server\Reporting Services\SSRS\ReportServer\bin
 ```
 
-<img width="912" height="291" alt="image" src="https://github.com/user-attachments/assets/b3d17378-3037-48c9-89b8-57a8e8cc0372" />
+<img width="684" height="219" alt="image" src="https://github.com/user-attachments/assets/b3d17378-3037-48c9-89b8-57a8e8cc0372" />
 
 
 (ตำแหน่งอาจแตกต่างตามเวอร์ชัน SSRS)
