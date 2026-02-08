@@ -270,7 +270,6 @@ SSRS Image
    =Code.GenerateQR(Fields!YourDataField.Value)
    ```
 
----
 <img width="1914" height="1015" alt="image" src="https://github.com/user-attachments/assets/e5342715-b3d2-4e2a-a052-7b3efb1dd35a" />
 
 
@@ -278,6 +277,7 @@ SSRS Image
 
 
 <img width="543" height="612" alt="image" src="https://github.com/user-attachments/assets/6f29aef9-5dcc-4d8d-9475-5f34e44c2663" />
+
 
 ---
 ### ตัวอย่างรายงาน
@@ -288,22 +288,16 @@ SSRS Image
 <img width="726" height="466" alt="image" src="https://github.com/user-attachments/assets/c6ecdcd9-cd4c-426b-a259-e34cf3447c33" />
 
 
-
-
 ```vb
 =Code.GenerateQR("ภาพที่คุณแนบมามีปัญหาที่เรียกว่า Missing Alignment Pattern ครับ ซึ่งเป็นเหตุผลหลักที่ทำให้เครื่องสแกนอ่านค่าไม่ได้")
 ```
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/bcaf29bb-e281-41a2-aaa5-13f85017daba" />
 
 
-
-
 ```vb
 =Code.GenerateQR("M03-M04-M05")
 ```
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/89527f7e-12b1-4148-a9ca-d4391a0485c6" />
-
-
 
 
 ```vb
