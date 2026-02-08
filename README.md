@@ -1,8 +1,7 @@
-#  Microsoft Report Builder (15 or Higher) with QRCoder.dll / SSRS
-การสร้าง QR Code โดยใช้ QRCoder.dll และ Microsoft Report Builder (เวอร์ชัน 15.1 ขึ้นไป)
+#  Report Builder สร้าง QR Code โดยใช้ QRCoder.dll
 
 เอกสารนี้อธิบายวิธีการผสานการทำงานของ **QRCoder.dll** เข้ากับ  
-**Microsoft Report Builder (v15.1 ขึ้นไป)** ซึ่งใช้งานร่วมกับ  
+**Microsoft Report Builder (v15)** ซึ่งใช้งานร่วมกับ  
 **SQL Server Reporting Services (SSRS)** หรือ **Power BI Report Server**  
 เพื่อสร้าง **QR Code** ภายในรายงานแบบ **Paginated Report**
 
@@ -24,7 +23,6 @@
 
 QRCoder ใช้ **MIT License**
 
-คุณสามารถ:
 - ใช้งานเชิงพาณิชย์หรือภายในองค์กรได้
 - ใช้งานในระบบออฟไลน์ / ระบบปิด (เช่น โรงงาน)
 - แก้ไขและแจกจ่ายไฟล์ DLL ได้
