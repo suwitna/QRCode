@@ -1,8 +1,7 @@
 #  Report Builder สร้าง QR Code โดยใช้ QRCoder.dll
 
-เอกสารนี้อธิบายวิธีการทำงานของ **QRCoder.dll** ร่วมกับ  
-**Microsoft Report Builder (v15)** ซึ่งใช้งานร่วมกับ  
-**SQL Server Reporting Services (SSRS)** หรือ **Power BI Report Server**  
+เอกสารนี้อธิบายวิธีการสร้าง QR Code ของ **Microsoft Report Builder (v15)** โดยใช้  **QRCoder.dll** 
+ซึ่งใช้งานร่วมกับ  **SQL Server Reporting Services (SSRS)** หรือ **Power BI Report Server**  
 เพื่อสร้าง **QR Code** ภายในรายงานแบบ **Paginated Report**
 
 ---
