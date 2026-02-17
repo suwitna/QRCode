@@ -313,3 +313,22 @@ SSRS Image
 ```
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/c3070ceb-c670-4074-b6cb-7142842ac457" />
 
+---
+## การปรับตำแหน่งของ QR Code
+- ก่อนปรับ Padding
+<img width="376" height="154" alt="image" src="https://github.com/user-attachments/assets/0d591610-ad9b-4127-af31-e66baa00e8ec" />
+
+<img width="839" height="640" alt="image" src="https://github.com/user-attachments/assets/ca92383a-c796-4bd0-816b-91ac6d507b4f" />
+
+
+- ปรับ Padding
+<img width="1173" height="791" alt="image" src="https://github.com/user-attachments/assets/87b5d8af-083e-4901-8ad1-7f8071249cfc" />
+
+<img width="574" height="528" alt="image" src="https://github.com/user-attachments/assets/d30ebed7-b554-403f-8a46-4c3d7da5785e" />
+
+<img width="571" height="527" alt="image" src="https://github.com/user-attachments/assets/368ad154-ee9f-4f86-b9d5-7d31e250911f" />
+
+
+- หลังปรับ Padding ให้เหมาะสม
+<img width="854" height="623" alt="image" src="https://github.com/user-attachments/assets/9e9d7033-2cb4-4441-bbf8-6dc161bee1be" />
+
